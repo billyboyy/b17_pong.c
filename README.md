@@ -1,2 +1,2 @@
-# b17_pong.c
+# gtech-b17-pong.c
 c'est un pong
